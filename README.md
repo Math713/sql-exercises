@@ -29,13 +29,6 @@ Basic data retrieval and filtering using a simple table structure.
 
 ---
 
-## 🚧 Status
-
-This repository is a work in progress.  
-New modules will be added gradually, covering aggregation, joins, and business logic.
-
----
-
 ## 🛠️ Technologies
 
 - MySQL
